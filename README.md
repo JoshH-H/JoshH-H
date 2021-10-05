@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a keen game developer with an interest with an interest for chellenging problems and devising solutions to them such as game development. I enjoy the puzzle solving that comes with a challenge and trying my best to work throught he problem and get an improved result. Some of best projects can be found here.
 <!--
 **JoshH-H/JoshH-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
