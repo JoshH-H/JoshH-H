@@ -1,7 +1,13 @@
 ### The one, likely te only, Josh Hall-Hems
-I'm a keen game developer with an interest with an interest for chellenging problems and devising solutions to them such as game development. I enjoy the puzzle solving that comes with a challenge and trying my best to work throught he problem and get an improved result. Some of best projects can be found here.
 
-Exploring different areas of programming has always been en anjoyable challenge, you can find them here:
+I'm a keen game developer with an interest with an interest for chellenging problems and devising solutions to them such as game development. I enjoy the puzzle solving that comes with a challenge and trying my best to work throught he problem and get an improved result. Some of best projects can be found here. I am close to graduating Games Design and Development (Programming) with an avid interest in mechanic/gameplay design, game data analyitics and interactvie audio in games.
+
+The majority of my projects have been developed in Unity utilising C# largely following an agile development system. In my spare time, I am learning the intracicies of C++ utilising the Unreal Engine.
+
+- 🔭 Check out my portfolio [here]()!
+- 📫 Connect with me through [LinkedIn](https://www.linkedin.com/in/josh-hall-hems-637b2a15b/)
+- 💬 Contact me: j.hallhema@gmail.com
+
 <!--
 **JoshH-H/JoshH-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
