@@ -4,7 +4,7 @@ I'm a keen game developer with an interest with an interest for chellenging prob
 
 The majority of my projects have been developed in Unity utilising C# largely following an agile development system. In my spare time, I am learning the intracicies of C++ utilising the Unreal Engine.
 
-- 🔭 Check out my portfolio [here]()!
+- 🔭 Check out my portfolio [here](https://joshh-h.wixsite.com/portfolio)!
 - 📫 Connect with me through [LinkedIn](https://www.linkedin.com/in/josh-hall-hems-637b2a15b/)
 - 💬 Contact me: j.hallhema@gmail.com
 
