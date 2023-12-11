@@ -1,8 +1,10 @@
-### The one, probably the only, Josh Hall-Hems
+### The one, probably the only, Joshua Hall-Hems
 
-I'm a keen game developer with an interest with an interest for challenging problems and devising solutions to them such as game development. I enjoy the puzzle solving that comes with a challenge and trying my best to work throught he problem and get an improved result. Some of best projects can be found here. I am close to graduating Games Design and Development (Programming) with an avid interest in mechanic/gameplay design, game data analyitics and interactvie audio in games.
+Games Design and Devlopemnt Graduate with an endorsement in Programming. I live and breathe games programming, with a strong need to tackle difficult problems and come up with creative solutions. You can find some of my projects on here and my portfolio website.
 
-The majority of my projects have been developed in Unity utilising C# largely following an agile development system. In my spare time, I am learning the intracicies of C++ utilising the Unreal Engine.
+Currently, I am teaching 1<sup>st</sup>, 2<sup>nd</sup> and masters students programming in a games environment using the Unreal Engine to prepare them for industry roles that require knowledge of widely used and modern software packages to create complex and meaningful projects that can be used in their portfolio.
+
+My projects have been developed in Unity utilising C# and Unreal Engine utilising both blueprints and C++ largely following an agile development system.
 
 - 🔭 Check out my portfolio [here](https://joshh-h.wixsite.com/portfolio)!
 - 📫 Connect with me through [LinkedIn](https://www.linkedin.com/in/josh-hall-hems-637b2a15b/)
@@ -21,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+OLD BIO
+I'm a keen game developer with an interest with an interest for challenging problems and devising solutions to them such as game development. I enjoy the puzzle solving that comes with a challenge and trying my best to work throught he problem and get an improved result. Some of my projects can be found here. I am close to graduating Games Design and Development (Programming) with an avid interest in mechanic/gameplay design, game data analyitics and interactvie audio in games.
 -->
