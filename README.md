@@ -2,7 +2,7 @@
 
 Games Design and Devlopemnt Graduate with an endorsement in Programming. I live and breathe games programming, with a strong need to tackle difficult problems and come up with creative solutions. You can find some of my projects on here and my portfolio website.
 
-Currently, I am teaching 1<sup>st</sup>, 2<sup>nd</sup> and masters students programming in a games environment using the Unreal Engine to prepare them for industry roles that require knowledge of widely used and modern software packages to create complex and meaningful projects that can be used in their portfolio.
+Currently, I am teaching 1<sup>st</sup>, 2<sup>nd</sup>, 3<sup>rd</sup> and masters students programming in a games environment using the Unreal Engine to prepare them for industry roles that require knowledge of widely used and modern software packages to create complex and meaningful projects that can be used in their portfolio.
 
 My projects have been developed in Unity utilising C# and Unreal Engine utilising both blueprints and C++ largely following an agile development system.
 
